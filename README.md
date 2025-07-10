@@ -1,34 +1,38 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px"> I'm Praful Yadav</h1>
+<h1 align="center" id="hello-there">Hey there! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px"> I'm Praful Yadav</h1>
 
 <p align="center">
-  🚀 B.Tech in Computer Science | AI Enthusiast | Full Stack Developer <br/>
-  👨‍💻 Always Learning | Open to Collaborations | Curious Coder
+  <img src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" width="100%">
+</p>
+
+<p align="center">
+🌟 MERN Stack Mentor • AI Enthusiast • Full Stack Developer • Blogger in Making 🚀  
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 👀 I'm a **curious learner** with a deep interest in **Computers** and **AI**
-- 🤝 Actively looking to **collaborate** on **Web, Android, or iOS Development Projects**
-- 📚 Currently diving deep into **Artificial Intelligence**
-- 🧩 **Fun Fact**: I love solving problems and building real-world projects with code!
-
----
-
-## 📚 Education
-
-🎓 **B.Tech in Computer Science**  
-GLA University, Mathura, India
+- 👨‍🎓 B.Tech in Computer Science, GLA University, Mathura  
+- 💻 I craft scalable **Web**, **iOS**, and **Android** applications  
+- 🌱 Currently learning **AI, Deep Learning**, and **ML frameworks**
+- 👯 Open to collaborating on **Web/App Development & AI projects**
+- 🧠 Curious about **system design**, **emerging tech**, and **space**
+- 📝 Love sharing knowledge – blogs and open source coming soon!
 
 ---
 
-## 👨‍💻 Coding Profiles
+## 🏆 Highlights & Achievements
 
-<p align="left">
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
-</p>
+<details>
+  <summary>📜 Tap to view achievements</summary>
+  <br>
+  <ul>
+    <li>✅ MERN Stack Mentor with 1+ year of experience</li>
+    <li>🎓 Finalist in inter-university Hackathon challenge</li>
+    <li>🚀 Built and deployed full-stack apps used by 500+ users</li>
+    <li>📈 Strong presence on competitive coding platforms</li>
+  </ul>
+</details>
 
 ---
 
@@ -40,8 +44,8 @@ GLA University, Mathura, India
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="40"/>
   <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" height="40"/>
@@ -49,7 +53,16 @@ GLA University, Mathura, India
 
 ---
 
-## 💻 IDEs I Use
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+</p>
+
+---
+
+## 🔧 IDEs I Use
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="40"/>
@@ -61,16 +74,33 @@ GLA University, Mathura, India
 
 ---
 
-## 📬 Let's Connect!
+## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&count_private=true&line_height=21&theme=default" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&column=7&theme=flat" />
 </p>
 
 ---
 
+## 🌐 Let's Connect
+
 <p align="center">
-  💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/material-outlined/30/000000/gmail-new.png"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+  <a href="https://github.com/yourgithubusername"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourgithubusername.yourgithubusername" alt="visitor badge">
+</p>
+
+---
+
+<p align="center"><i>“Dream big, code smart, stay humble.”</i></p>
+
+---
+
+<p align="center">🚀 Built with ❤️ by <strong>Praful Yadav</strong></p>
